@@ -1,0 +1,15 @@
+{
+  "run_id": "run_002_jira_create_needs_selection",
+  "intent": "create_issue",
+  "domain": "jira",
+  "action": "create_issue",
+  "selection": {},
+  "inputs": {
+    "summary": "Agent invented steps in a reply",
+    "description": "Observed output included unconfirmed policy steps."
+  },
+  "constraints": {
+    "require_disambiguation": true
+  },
+  "requested_output_format": "json"
+}

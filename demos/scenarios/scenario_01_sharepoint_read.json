@@ -1,0 +1,15 @@
+{
+  "run_id": "run_001_sharepoint_read",
+  "intent": "retrieve_approved_content",
+  "domain": "onedrive_sharepoint",
+  "action": "read_page_by_path",
+  "selection": {
+    "site": "EmployeeResources",
+    "page_path": "/HR/TimeOff"
+  },
+  "inputs": {},
+  "constraints": {
+    "approved_sources_only": true
+  },
+  "requested_output_format": "text"
+}

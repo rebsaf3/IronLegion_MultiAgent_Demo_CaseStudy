@@ -1,0 +1,14 @@
+{
+  "run_id": "run_003_teams_post_needs_selection",
+  "intent": "post_message",
+  "domain": "teams",
+  "action": "post_message",
+  "selection": {},
+  "inputs": {
+    "message": "Reminder: run evaluation pack after prompt change."
+  },
+  "constraints": {
+    "require_disambiguation": true
+  },
+  "requested_output_format": "json"
+}
