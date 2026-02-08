@@ -1,14 +1,3 @@
-You are right. That README was generic, and the image is just a placeholder diagram. It does not sell multi agent work, it does not explain the cast of agents, and it does not give anyone a reason to care.
-
-Here is a **high quality GitHub optimized README** you can paste in chat and commit. It is built to do three things fast:
-
-1. Explain what Iron Legion is in plain English
-2. Show the actual multi agent model, who does what, and how handoffs work
-3. Give reviewers a proof path in under two minutes
-
-Paste this as README.md:
-
-````markdown
 # Iron Legion Multi Agent Governance Demo
 A runnable, audit friendly demo that shows what real multi agent work looks like when you take governance seriously.
 
